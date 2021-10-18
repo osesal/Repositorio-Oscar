@@ -1,0 +1,64 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    text-align: center;
+    background-color: lightblue;
+    width: 1000px;
+}
+#descansar{
+    background-color: whitesmoke;
+}
+#titulo{
+    background-color: lightblue;
+    color: white;
+}
+#titulo2{
+    color: skyblue;
+    text-align: center;
+}
+#lista{
+    color: black;
+    background-color: skyblue;
+}
+#video{
+    text-align: center;
+}
+#imagen{
+    text-align: center;
+}
+#mapa{
+    text-align: center;
+}
+#gif{
+    text-align: center;
+}
+#contenedor{
+    text-align: center;
+    background-color: burlywood; 
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#caja1{
+    background-color: red;
+    order: 2;
+    width: 100px;
+}
+#caja2{
+    background-color: yellow;
+    order: 1;
+    width: 100px;
+}
+#caja3{
+    background-color: yellow;
+    order: 4;
+    width: 100px;
+}
+#caja4{
+    background-color: red;
+    order: 3;
+    width: 100px;
+}
